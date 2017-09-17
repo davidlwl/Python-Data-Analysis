@@ -1,3 +1,5 @@
+#make new folders in files automatically
+
 import os
 n = 5
 while n < 14:
